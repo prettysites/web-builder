@@ -44,7 +44,7 @@ These are the recurring decisions that separate gallery-grade pages from average
 - **Scale contrast does the work:** the H1 is 5–6× the body size.
 - **Break headlines by hand** into 2–3 lines. Stop bad wraps on desktop (`white-space: nowrap` per line) and let the lines flow on mobile.
 - **Gradient text is rare and controlled:** a subtle vertical silver on display type, or nothing at all.
-- **Wordmarks** are tight-tracked text with a superscript ®/™, or a small custom inline-SVG mark. Never a generic icon next to a bold word.
+- **Wordmarks** are tight-tracked text or a small custom inline-SVG mark. Never a generic icon next to a bold word. Do not add trademark symbols as decoration; use ® only when the user confirms an applicable registration, and use ™ only when the user intends to claim the mark.
 - **At most 2 families,** plus an optional mono for labels. Load only the weights you use.
 
 ## Colour
@@ -133,7 +133,7 @@ Recurring values from gallery-grade builds that go beyond the rules above. Worki
 - Weight 300 at huge sizes on dark backgrounds reads expensive; 500 for big sans wordmarks.
 - Pairings that recur: Instrument Serif italic + Inter or Barlow; Inter + Outfit; Geist alone; Manrope alone; Kanit 300–900 alone; Anton + Inter (poster); Poppins + Source Serif 4 italic; Helvetica Now / Neue Haas (Swiss); a dot-matrix or pixel display face + Inter for UI.
 - Two-tone headline: the first phrase in the primary, the rest in a lighter tint of the same hue (`#336443` → `#85AB8B`); or muted-tone words without italics.
-- Logo craft: a 10px ®/™; a ✳︎ or ✦ glyph after the logotype; one lowercase italic serif letter in a 48px glass disc; an SVG mark with a metallic multi-stop gradient.
+- Logo craft: a ✳︎ or ✦ glyph after the logotype; one lowercase italic serif letter in a 48px glass disc; an SVG mark with a metallic multi-stop gradient. Trademark symbols are legal claims, not visual ornaments.
 - Micro-label formats: `// Capabilities` (14px, 80 %), `[ 02 ] Section`, `01 ——` with a 64×1.5px rule, `/ SERVICE NAME` lists, an eyebrow led by a 32px hairline or a 6px dot, counts as superscripts on nav items (`Projects⁶`, mono 10px at 60 %). Mapping a mono class to the sans keeps the tracked look without a third font.
 - Inline icon circles inside a headline (56px, 1px border, 22px icon, nudged −4px) work as ornaments that invert on hover. All-lowercase copy suits calm tech brands.
 - Rendering: `-webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale`; `font-variant-numeric:tabular-nums` on changing numbers; `font-display:swap` + `preconnect` to fonts.gstatic.com (`crossorigin`). Card copy max 32ch; ledes max 28rem (~470px).

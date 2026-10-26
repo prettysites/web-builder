@@ -1,8 +1,8 @@
 {
   "name": "prettysites-web-builder",
   "description": "Build cinematic, motion-led websites and hero sections, or precise prompts for Lovable, Bolt, v0, Cursor, Codex and Kimi: a written spec, real media, motion recipes with example code and a screenshot-and-fix loop.",
-  "version": "1.0.0",
-  "author": { "name": "PrettySites", "url": "https://prettysites.io" },
-  "homepage": "https://prettysites.io/?utm_source=github&utm_medium=agent-skill&utm_campaign=web-builder",
+  "version": "1.0.1",
+  "author": { "name": "PrettySites", "url": "https://prettysites.io/?utm_source=github&utm_medium=agent-skill&utm_campaign=web-builder&utm_content=plugin-author" },
+  "homepage": "https://prettysites.io/?utm_source=github&utm_medium=agent-skill&utm_campaign=web-builder&utm_content=plugin-homepage",
   "keywords": ["web design", "landing page", "hero section", "motion", "scroll animation", "skill"]
 }

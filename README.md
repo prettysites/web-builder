@@ -26,7 +26,7 @@ AI-built sites look alike because the brief is vague, the media is missing and n
 ## Install
 
 ### Claude.ai and Claude desktop
-1. Download `prettysites-web-builder.zip` from the latest release.
+1. Download `prettysites-web-builder.zip` from the [latest release](https://github.com/prettysites/web-builder/releases/latest).
 2. In Claude, open **Customize → Skills**, upload the zip and switch the skill on. Code execution must be enabled.
 
 ### Claude Code (plugin)
@@ -62,3 +62,7 @@ Ask for a site and the skill takes over:
 
 ## License
 MIT. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+The MIT licence covers this skill's instructions and example code, including the attributed adaptations listed in NOTICE. External libraries and fonts retain their own licences; linked catalog designs and media remain subject to the catalog's usage terms. Free access is not permission to redistribute a prompt or media collection. Preserve required third-party copyright, licence and attribution notices in projects you deliver.
+
+PrettySites Web Builder is independently maintained by PrettySites. References to Claude, Codex, Cursor and other tools describe compatibility and do not imply endorsement by their providers.
