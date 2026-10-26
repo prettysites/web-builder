@@ -1,0 +1,36 @@
+Third-party notice
+
+This repository includes material adapted from "MotionSites Web Builder"
+(https://github.com/Motionsites-AI/claude-skill), released under the MIT License:
+- references/techniques/{3d-and-webgl, depth-and-interaction, layout-and-ui,
+  scroll, surfaces-and-buttons, type-and-text-motion, video-and-media}.md
+- the extended library section of references/techniques/INDEX.md
+- references/craft-detailed.md, spec-detailed.md, review-detailed.md and
+  media-detailed.md (media-shelf references removed)
+- scripts/shoot.py
+- the workflow outline and the structure of the end-of-delivery note in SKILL.md
+
+MotionSites' example prompts and media are not included; they remain
+© MotionSites and are not covered by this repository's license.
+
+The original MIT notice for that material:
+
+Copyright (c) 2026 MotionSites
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

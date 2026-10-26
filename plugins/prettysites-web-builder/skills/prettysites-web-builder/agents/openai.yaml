@@ -1,0 +1,4 @@
+interface:
+  display_name: "PrettySites Web Builder"
+  short_description: "Motion-led websites with visual review"
+  default_prompt: "Use $prettysites-web-builder to build a polished motion-led website for my brief"

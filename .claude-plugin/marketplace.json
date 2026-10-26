@@ -1,0 +1,15 @@
+{
+  "name": "prettysites",
+  "description": "Free agent skills from PrettySites for building cinematic, motion-led websites.",
+  "owner": { "name": "PrettySites", "url": "https://prettysites.io" },
+  "plugins": [
+    {
+      "name": "prettysites-web-builder",
+      "source": "./plugins/prettysites-web-builder",
+      "description": "Build cinematic websites and hero sections that don't look AI-made, or write precise prompts for other AI builders.",
+      "author": { "name": "PrettySites" },
+      "homepage": "https://prettysites.io/?utm_source=github&utm_medium=agent-skill&utm_campaign=web-builder",
+      "category": "design"
+    }
+  ]
+}
